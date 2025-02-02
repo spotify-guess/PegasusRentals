@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6eebb0fe.css",
+    "main.js": "/static/js/main.13b28c38.js",
+    "static/media/ford_explorer_2020.PNG": "/static/media/ford_explorer_2020.aa8e1219b08157a08dfb.PNG",
+    "static/media/fiat_500_2016.PNG": "/static/media/fiat_500_2016.4eba9cd9db0b879666c2.PNG",
+    "static/media/cadillac_escalade_2018.PNG": "/static/media/cadillac_escalade_2018.ff3b0c5cc58d26fd044c.PNG",
+    "static/media/ford_escape_2014.PNG": "/static/media/ford_escape_2014.b67c32c19f3c3441467c.PNG",
+    "static/media/honda_pilot_2017.PNG": "/static/media/honda_pilot_2017.b78fb50dacb11012feea.PNG",
+    "static/media/hyundai_elantra_2017.PNG": "/static/media/hyundai_elantra_2017.009133a652bd9bd8f9d7.PNG",
+    "static/media/hyundai_sante_fe_2022.png": "/static/media/hyundai_sante_fe_2022.3b482bff810965b6d209.png",
+    "static/media/pegasus_logo.png": "/static/media/pegasus_logo.c838a204e5d3e5c51259.png",
+    "static/media/chevy_impala_2018.PNG": "/static/media/chevy_impala_2018.2696b915f239b0d8336f.PNG",
+    "static/media/instagram.png": "/static/media/instagram.1d983a55cb9544a4d451.png",
+    "static/media/range_rover_sport_2019.png": "/static/media/range_rover_sport_2019.1a5cd032cac89a06b8e3.png",
+    "static/media/land_rover.png": "/static/media/land_rover.a261fc9ebb17e5e2aeb2.png",
+    "static/media/maybach.jpg": "/static/media/maybach.8e2bd4a4a1234580b080.jpg",
+    "static/media/cadillac.png": "/static/media/cadillac.de9247e8df30f3cebbc5.png",
+    "static/media/fiat.png": "/static/media/fiat.f37bbfdbae57a35da75a.png",
+    "static/media/honda.png": "/static/media/honda.86aa2fef98fbe9693168.png",
+    "static/media/facebook.png": "/static/media/facebook.790642551cd99bb66a7e.png",
+    "static/media/money.png": "/static/media/money.54f2c8fa16a7e2347c0b.png",
+    "static/media/maybach_mobile.JPG": "/static/media/maybach_mobile.5c111260a46c5143f158.JPG",
+    "static/media/twocars.png": "/static/media/twocars.1095eb329b4ead4a6686.png",
+    "static/media/customerservice.png": "/static/media/customerservice.b62e5bcc8d398bd41f91.png",
+    "static/media/mpg_icon.png": "/static/media/mpg_icon.72cf1f376e372372d327.png",
+    "static/media/ford.png": "/static/media/ford.7f7038fe0627557c1b9d.png",
+    "static/media/drivetrain_icon.png": "/static/media/drivetrain_icon.939a4ad48151737be905.png",
+    "static/media/open.jpg": "/static/media/open.7fad5eb0aee8c2e5bdba.jpg",
+    "static/media/tiktok.png": "/static/media/tiktok.5a8624a3f20a38c37162.png",
+    "static/media/chevy.png": "/static/media/chevy.56faca8d84df6fb33f73.png",
+    "static/media/car_door_icon.png": "/static/media/car_door_icon.3beb904e034ed8fae7ac.png",
+    "static/media/person_icon.png": "/static/media/person_icon.566c7b0dcc72201dd4f6.png",
+    "index.html": "/index.html",
+    "main.6eebb0fe.css.map": "/static/css/main.6eebb0fe.css.map",
+    "main.13b28c38.js.map": "/static/js/main.13b28c38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6eebb0fe.css",
+    "static/js/main.13b28c38.js"
+  ]
+}
