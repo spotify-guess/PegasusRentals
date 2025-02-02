@@ -27,7 +27,6 @@ const ContactUs = () => {
     );
 
     alert("Message successfully sent!")
-    form.current.
     navigate("/");
 
 

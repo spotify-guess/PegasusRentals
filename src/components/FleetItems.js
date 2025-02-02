@@ -88,7 +88,7 @@ const FleetItems = () => {
     
       <div className='car'>
 
-        <img src={range_rover_sport_2019}></img>
+        <img src={range_rover_sport_2019} alt=""></img>
 
         <h3>Range Rover Sport</h3>
 
@@ -102,7 +102,7 @@ const FleetItems = () => {
 
             <div className='split1'>
 
-              <img src={capacity_icon} className='capacity_icon'></img>
+              <img src={capacity_icon} alt="" className='capacity_icon'></img>
 
               <p className='capacity_amount'>5</p>
 
@@ -116,7 +116,7 @@ const FleetItems = () => {
 
             <div className='split2'>
 
-              <img src={drivetrain_icon} className='drivetrain_icon'></img>
+              <img src={drivetrain_icon} alt="" className='drivetrain_icon'></img>
 
               <p>AWD</p>
 
@@ -130,7 +130,7 @@ const FleetItems = () => {
 
             <div className='split3'>
 
-              <img src={mpg_icon} className='mpg_icon'></img>
+              <img src={mpg_icon} alt="" className='mpg_icon'></img>
 
               <p>19</p>
 
@@ -144,7 +144,7 @@ const FleetItems = () => {
 
             <div className='split4'>
 
-              <img src={car_doors_icon} className='car_doors_icon'></img>
+              <img src={car_doors_icon} alt="" className='car_doors_icon'></img>
 
               <p>4</p>
 
@@ -173,7 +173,7 @@ const FleetItems = () => {
 
       <div className='car'>
 
-        <img src={honda_pilot_2017}></img>
+        <img src={honda_pilot_2017} alt=""></img>
 
         <h3>Honda Pilot</h3>
 
@@ -187,7 +187,7 @@ const FleetItems = () => {
 
             <div className='split1'>
 
-              <img src={capacity_icon} className='capacity_icon'></img>
+              <img src={capacity_icon} alt="" className='capacity_icon'></img>
 
               <p className='capacity_amount'>8</p>
 
@@ -201,7 +201,7 @@ const FleetItems = () => {
 
             <div className='split2'>
 
-              <img src={drivetrain_icon} className='drivetrain_icon'></img>
+              <img src={drivetrain_icon} alt="" className='drivetrain_icon'></img>
 
               <p>FWD</p>
 
@@ -215,7 +215,7 @@ const FleetItems = () => {
 
             <div className='split3'>
 
-              <img src={mpg_icon} className='mpg_icon'></img>
+              <img src={mpg_icon} alt="" className='mpg_icon'></img>
 
               <p>23</p>
 
@@ -229,7 +229,7 @@ const FleetItems = () => {
 
             <div className='split4'>
 
-              <img src={car_doors_icon} className='car_doors_icon'></img>
+              <img src={car_doors_icon} alt="" className='car_doors_icon'></img>
 
               <p>4</p>
 
@@ -259,7 +259,7 @@ const FleetItems = () => {
 
       <div className='car'>
 
-        <img src={chevy_impala_2018}></img>
+        <img src={chevy_impala_2018} alt=""></img>
 
         <h3>Chevrolet Impala</h3>
 
@@ -273,7 +273,7 @@ const FleetItems = () => {
 
             <div className='split1'>
 
-              <img src={capacity_icon} className='capacity_icon'></img>
+              <img src={capacity_icon} alt="" className='capacity_icon'></img>
 
               <p className='capacity_amount'>5</p>
 
@@ -287,7 +287,7 @@ const FleetItems = () => {
 
             <div className='split2'>
 
-              <img src={drivetrain_icon} className='drivetrain_icon'></img>
+              <img src={drivetrain_icon} alt="" className='drivetrain_icon'></img>
 
               <p>FWD</p>
 
@@ -301,7 +301,7 @@ const FleetItems = () => {
 
             <div className='split3'>
 
-              <img src={mpg_icon} className='mpg_icon'></img>
+              <img src={mpg_icon} alt="" className='mpg_icon'></img>
 
               <p>25</p>
 
@@ -315,7 +315,7 @@ const FleetItems = () => {
 
             <div className='split4'>
 
-              <img src={car_doors_icon} className='car_doors_icon'></img>
+              <img src={car_doors_icon} alt="" className='car_doors_icon'></img>
 
               <p>4</p>
 
@@ -346,7 +346,7 @@ const FleetItems = () => {
 
       <div className='car'>
 
-        <img src={ford_explorer_2020}></img>
+        <img src={ford_explorer_2020} alt=""></img>
 
         <h3>Ford Explorer</h3>
 
@@ -360,7 +360,7 @@ const FleetItems = () => {
 
             <div className='split1'>
 
-              <img src={capacity_icon} className='capacity_icon'></img>
+              <img src={capacity_icon} alt="" className='capacity_icon'></img>
 
               <p className='capacity_amount'>7</p>
 
@@ -374,7 +374,7 @@ const FleetItems = () => {
 
             <div className='split2'>
 
-              <img src={drivetrain_icon} className='drivetrain_icon'></img>
+              <img src={drivetrain_icon} alt="" className='drivetrain_icon'></img>
 
               <p>RWD</p>
 
@@ -388,7 +388,7 @@ const FleetItems = () => {
 
             <div className='split3'>
 
-              <img src={mpg_icon} className='mpg_icon'></img>
+              <img src={mpg_icon} alt="" className='mpg_icon'></img>
 
               <p>24</p>
 
@@ -402,7 +402,7 @@ const FleetItems = () => {
 
             <div className='split4'>
 
-              <img src={car_doors_icon} className='car_doors_icon'></img>
+              <img src={car_doors_icon} alt="" className='car_doors_icon'></img>
 
               <p>4</p>
 
@@ -433,7 +433,7 @@ const FleetItems = () => {
 
       <div className='car'>
 
-        <img src={cadillac_escalade_2018}></img>
+        <img src={cadillac_escalade_2018} alt=""></img>
 
         <h3>Cadillac Escalade</h3>
 
@@ -447,7 +447,7 @@ const FleetItems = () => {
 
             <div className='split1'>
 
-              <img src={capacity_icon} className='capacity_icon'></img>
+              <img src={capacity_icon} alt="" className='capacity_icon'></img>
 
               <p className='capacity_amount'>8</p>
 
@@ -461,7 +461,7 @@ const FleetItems = () => {
 
             <div className='split2'>
 
-              <img src={drivetrain_icon} className='drivetrain_icon'></img>
+              <img src={drivetrain_icon} alt="" className='drivetrain_icon'></img>
 
               <p>RWD</p>
 
@@ -475,7 +475,7 @@ const FleetItems = () => {
 
             <div className='split3'>
 
-              <img src={mpg_icon} className='mpg_icon'></img>
+              <img src={mpg_icon} alt="" className='mpg_icon'></img>
 
               <p>17</p>
 
@@ -489,7 +489,7 @@ const FleetItems = () => {
 
             <div className='split4'>
 
-              <img src={car_doors_icon} className='car_doors_icon'></img>
+              <img src={car_doors_icon} alt="" className='car_doors_icon'></img>
 
               <p>4</p>
 
@@ -520,7 +520,7 @@ const FleetItems = () => {
 
       <div className='car'>
 
-        <img src={ford_escape_2014}></img>
+        <img src={ford_escape_2014} alt=""></img>
 
         <h3>Ford Escape</h3>
 
@@ -534,7 +534,7 @@ const FleetItems = () => {
 
             <div className='split1'>
 
-              <img src={capacity_icon} className='capacity_icon'></img>
+              <img src={capacity_icon} alt="" className='capacity_icon'></img>
 
               <p className='capacity_amount'>5</p>
 
@@ -548,7 +548,7 @@ const FleetItems = () => {
 
             <div className='split2'>
 
-              <img src={drivetrain_icon} className='drivetrain_icon'></img>
+              <img src={drivetrain_icon} alt="" className='drivetrain_icon'></img>
 
               <p>FWD</p>
 
@@ -562,7 +562,7 @@ const FleetItems = () => {
 
             <div className='split3'>
 
-              <img src={mpg_icon} className='mpg_icon'></img>
+              <img src={mpg_icon} alt="" className='mpg_icon'></img>
 
               <p>25</p>
 
@@ -576,7 +576,7 @@ const FleetItems = () => {
 
             <div className='split4'>
 
-              <img src={car_doors_icon} className='car_doors_icon'></img>
+              <img src={car_doors_icon} alt="" className='car_doors_icon'></img>
 
               <p>4</p>
 
@@ -607,7 +607,7 @@ const FleetItems = () => {
 
       <div className='car'>
 
-        <img src={hyundai_sante_fe_2022}></img>
+        <img src={hyundai_sante_fe_2022} alt=""></img>
 
         <h3>Hyundai Sante Fe</h3>
 
@@ -621,7 +621,7 @@ const FleetItems = () => {
 
             <div className='split1'>
 
-              <img src={capacity_icon} className='capacity_icon'></img>
+              <img src={capacity_icon} alt="" className='capacity_icon'></img>
 
               <p className='capacity_amount'>5</p>
 
@@ -635,7 +635,7 @@ const FleetItems = () => {
 
             <div className='split2'>
 
-              <img src={drivetrain_icon} className='drivetrain_icon'></img>
+              <img src={drivetrain_icon} alt="" className='drivetrain_icon'></img>
 
               <p>FWD</p>
 
@@ -649,7 +649,7 @@ const FleetItems = () => {
 
             <div className='split3'>
 
-              <img src={mpg_icon} className='mpg_icon'></img>
+              <img src={mpg_icon} alt="" className='mpg_icon'></img>
 
               <p>26</p>
 
@@ -663,7 +663,7 @@ const FleetItems = () => {
 
             <div className='split4'>
 
-              <img src={car_doors_icon} className='car_doors_icon'></img>
+              <img src={car_doors_icon} alt="" className='car_doors_icon'></img>
 
               <p>4</p>
 
@@ -694,7 +694,7 @@ const FleetItems = () => {
 
       <div className='car'>
 
-        <img src={fiat_500_2016}></img>
+        <img src={fiat_500_2016} alt=""></img>
 
         <h3>Fiat 500</h3>
 
@@ -708,7 +708,7 @@ const FleetItems = () => {
 
             <div className='split1'>
 
-              <img src={capacity_icon} className='capacity_icon'></img>
+              <img src={capacity_icon} alt="" className='capacity_icon'></img>
 
               <p className='capacity_amount'>2</p>
 
@@ -722,7 +722,7 @@ const FleetItems = () => {
 
             <div className='split2'>
 
-              <img src={drivetrain_icon} className='drivetrain_icon'></img>
+              <img src={drivetrain_icon} alt="" className='drivetrain_icon'></img>
 
               <p>FWD</p>
 
@@ -736,7 +736,7 @@ const FleetItems = () => {
 
             <div className='split3'>
 
-              <img src={mpg_icon} className='mpg_icon'></img>
+              <img src={mpg_icon} alt="" className='mpg_icon'></img>
 
               <p>34</p>
 
@@ -750,7 +750,7 @@ const FleetItems = () => {
 
             <div className='split4'>
 
-              <img src={car_doors_icon} className='car_doors_icon'></img>
+              <img src={car_doors_icon} alt="" className='car_doors_icon'></img>
 
               <p>2</p>
 
@@ -780,7 +780,7 @@ const FleetItems = () => {
 
       <div className='car'>
 
-        <img src={hyundai_elantra_2017}></img>
+        <img src={hyundai_elantra_2017} alt=""></img>
 
         <h3>Hyundai Elantra</h3>
 
@@ -794,7 +794,7 @@ const FleetItems = () => {
 
             <div className='split1'>
 
-              <img src={capacity_icon} className='capacity_icon'></img>
+              <img src={capacity_icon} alt="" className='capacity_icon'></img>
 
               <p className='capacity_amount'>5</p>
 
@@ -808,7 +808,7 @@ const FleetItems = () => {
 
             <div className='split2'>
 
-              <img src={drivetrain_icon} className='drivetrain_icon'></img>
+              <img src={drivetrain_icon} alt="" className='drivetrain_icon'></img>
 
               <p>FWD</p>
 
@@ -822,7 +822,7 @@ const FleetItems = () => {
 
             <div className='split3'>
 
-              <img src={mpg_icon} className='mpg_icon'></img>
+              <img src={mpg_icon} alt="" className='mpg_icon'></img>
 
               <p>32</p>
 
@@ -836,7 +836,7 @@ const FleetItems = () => {
 
             <div className='split4'>
 
-              <img src={car_doors_icon} className='car_doors_icon'></img>
+              <img src={car_doors_icon} alt="" className='car_doors_icon'></img>
 
               <p>4</p>
 

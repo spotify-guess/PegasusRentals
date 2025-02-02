@@ -18,7 +18,7 @@ const Footer = () => {
 
                 <div className='logo_name'>
 
-                    <img src={pegasus} className='logo'></img>
+                    <img src={pegasus} alt="" className='logo'></img>
                     <h2>Pegasus</h2>
 
                 </div>
@@ -48,9 +48,9 @@ const Footer = () => {
                 <h4>FOLLOW US</h4>
 
                 <div className='social_media_icons'>
-                    <img src={insta}/>
-                    <img src={facebook}/>
-                    <img src={tiktok}/>
+                    <img src={insta} alt="" />
+                    <img src={facebook} alt="" />
+                    <img src={tiktok} alt="" />
                 </div>
 
                 

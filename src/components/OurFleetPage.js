@@ -1,6 +1,5 @@
 import React from 'react'
 import Navbar from './Navbar'
-import OurFleet from './OurFleet'
 import Footer from './Footer'
 import './OurFleetPage.css'
 import FleetItems from './FleetItems'

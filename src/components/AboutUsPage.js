@@ -49,7 +49,7 @@ const AboutUsPage = () => {
             viewport={{amount: 1,  once:true}} 
             className="row2">
 
-                <img src={medal}></img>
+                <img src={medal} alt=""></img>
 
                 <div className="column2">
 
@@ -68,7 +68,7 @@ const AboutUsPage = () => {
             viewport={{amount: 1,  once:true}}
             className="row2">
 
-                <img src={money}></img>
+                <img src={money} alt=""></img>
 
                 <div className="column2">
 
@@ -86,7 +86,7 @@ const AboutUsPage = () => {
             transition={{delay: 0.1}}
             viewport={{amount: 1,  once:true}} className="row2">
 
-                <img src={customerservice}></img>
+                <img src={customerservice} alt=""></img>
 
                 <div className="column2">
 
@@ -105,7 +105,7 @@ const AboutUsPage = () => {
             viewport={{amount: 1,  once:true}}
             className="row2">
 
-                <img src={twocars}></img>
+                <img src={twocars} alt=""></img>
 
                 <div className="column2">
 

@@ -1,7 +1,5 @@
 import './App.css';
-import ReactDOM from "react-dom/client";
-import { BrowserRouter, Routes, Route, Router } from "react-router-dom";
-import Navbar from './components/Navbar';
+import { BrowserRouter, Routes, Route} from "react-router-dom";
 import ContactUsPage from './components/ContactUsPage';
 import OurFleetPage from './components/OurFleetPage';
 import Home from './components/Home';
