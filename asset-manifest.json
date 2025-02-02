@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6eebb0fe.css",
-    "main.js": "/static/js/main.13b28c38.js",
+    "main.js": "/static/js/main.5b5ffd36.js",
     "static/media/ford_explorer_2020.PNG": "/static/media/ford_explorer_2020.aa8e1219b08157a08dfb.PNG",
     "static/media/fiat_500_2016.PNG": "/static/media/fiat_500_2016.4eba9cd9db0b879666c2.PNG",
     "static/media/cadillac_escalade_2018.PNG": "/static/media/cadillac_escalade_2018.ff3b0c5cc58d26fd044c.PNG",
@@ -33,10 +33,10 @@
     "static/media/person_icon.png": "/static/media/person_icon.566c7b0dcc72201dd4f6.png",
     "index.html": "/index.html",
     "main.6eebb0fe.css.map": "/static/css/main.6eebb0fe.css.map",
-    "main.13b28c38.js.map": "/static/js/main.13b28c38.js.map"
+    "main.5b5ffd36.js.map": "/static/js/main.5b5ffd36.js.map"
   },
   "entrypoints": [
     "static/css/main.6eebb0fe.css",
-    "static/js/main.13b28c38.js"
+    "static/js/main.5b5ffd36.js"
   ]
 }
