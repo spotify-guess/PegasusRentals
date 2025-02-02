@@ -47,50 +47,26 @@ const ContactUs = () => {
   return (
     <div className='contactUs'>
 
-        <motion.h1
-         initial={{ opacity: 0 }}
-         whileInView={{ opacity: 1 }}
-         viewport={{amount: 1,  once:true}}
-        >
-          Contact Us</motion.h1>
+        <h1>
+          Contact Us</h1>
 
-        <motion.h3
-         initial={{ opacity: 0 }}
-         whileInView={{ opacity: 1 }}
-         transition={{delay:0.1}}
-         viewport={{amount: 1,  once:true}}
+        <h3
          >
         Please contact us below for inquiries about renting a vehicle or for any questions/concerns.
-        </motion.h3>
+        </h3>
 
         <form ref={form} onSubmit={sendEmail}>
             
-            <motion.input 
-            initial={{ opacity: 0 }}
-            whileInView={{ opacity: 1 }}
-            transition={{delay:0.2}}
-            viewport={{amount: 1,  once:true}}
+            <input 
             type="text" name="from_name" placeholder=' Name...' required/>
 
-            <motion.input
-            initial={{ opacity: 0 }}
-            whileInView={{ opacity: 1 }}
-            transition={{delay:0.3}}
-            viewport={{amount: 1,  once:true}}
+            <input
             type="email" name="user_name" placeholder=' Email Address...' required/>
 
-            <motion.textarea
-            initial={{ opacity: 0 }}
-            whileInView={{ opacity: 1 }}
-            transition={{delay:0.4}}
-            viewport={{amount: 1,  once:true}}
+            <textarea
             name="message" defaultValue={defaultValue} placeholder='Message..' required/>
 
-            <motion.input
-            initial={{ opacity: 0 }}
-            whileInView={{ opacity: 1 }}
-            transition={{delay:0.5}}
-            viewport={{amount: 1,  once:true}}
+            <input
              type="submit" value="Send" className='button'/>
 
         </form>

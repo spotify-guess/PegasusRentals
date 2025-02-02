@@ -16,7 +16,7 @@ const QuickStats = () => {
                 whileInView={{ opacity: 1 }}
                 viewport={{amount: 1,  once:true}}
             className='stats_col1'>
-                <img src={phone} alt="" />
+                <img src={phone}/>
                 <p>+1 (929) 342-8592</p>
             </motion.div>
 
@@ -26,7 +26,7 @@ const QuickStats = () => {
                 transition={{delay: 0.1}}
                 viewport={{amount: 1,  once:true}}
                 className='stats_col2'>
-                <img src={address} alt="" />
+                <img src={address}/>
                 <p>162-42 Pidgeon Meadow Rd, Flushing, NY 11358</p>
             </motion.div>
 
@@ -37,7 +37,7 @@ const QuickStats = () => {
                 transition={{delay: 0.2}}
                 viewport={{amount: 1, once:true}}
             className='stats_col3'>
-                <img src={hours} alt="" />
+                <img src={hours}/>
                 <p>7 A.M. - 6 P.M. (EST)</p>
             </motion.div>
 
