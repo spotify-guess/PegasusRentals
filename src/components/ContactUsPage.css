@@ -10,3 +10,20 @@
 .contactus{
     margin-top: 10px;
 }
+
+
+@media screen and (max-width: 600px){
+    .contactus{
+        width: 94%;
+        margin-left: 1%;
+
+        h3{
+            margin-left: -28px;
+        }
+
+        h1{
+            margin-left: 135px;
+        }
+    }
+
+}

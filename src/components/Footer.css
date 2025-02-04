@@ -102,6 +102,10 @@ input{
         flex-direction: column;
     }
 
+    .footer{
+        width: 90%;
+    }
+
 
     .copyright{
         width: 100%;
@@ -114,6 +118,8 @@ input{
     }
 
     .logo_name{
+
+        margin-left: -25px;
 
         img{
             margin-top: 40px;
@@ -148,7 +154,7 @@ input{
             background-color: #202020;
             border: none;
             border-radius: 5px;
-            margin-left: 0px;
+            margin-left: -10px;
 
 
         }
@@ -160,7 +166,7 @@ input{
             border: none;
             border-radius: 5px;
             margin-top: 10px;
-            margin-left: 0px;
+            margin-left: -9px;
             width: 210px;
             margin-bottom: 15px;
         }

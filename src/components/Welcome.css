@@ -59,9 +59,9 @@
     }
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 600px) {
 
-    .Maybach{
+    .maybach{
         display: none;
     }
 
@@ -78,12 +78,12 @@
 
     .text{
 
-        width: 100%;
+        width: 90vw;
         margin-left: -5px;
         margin-top: -820px;
 
         p{
-            font-size: 43px;
+            font-size: 38px;
             margin-bottom: 0px;
         }
 
